@@ -1,0 +1,24 @@
+\\DESKTOP-KVEEUKJ\Shared\Exporter\Exporter\Exporter\obj\Debug\Exporter.csproj.AssemblyReference.cache
+\\DESKTOP-KVEEUKJ\Shared\Exporter\Exporter\Exporter\obj\Debug\Exporter.csproj.CoreCompileInputs.cache
+D:\Shared\Exporter\Exporter\Exporter\obj\Debug\Exporter.csproj.CoreCompileInputs.cache
+D:\Shared\Exporter\Exporter\Exporter\bin\Debug\Exporter.dll
+D:\Shared\Exporter\Exporter\Exporter\bin\Debug\Exporter.pdb
+D:\Shared\Exporter\Exporter\Exporter\bin\Debug\RevitAPIIFC.dll
+D:\Shared\Exporter\Exporter\Exporter\bin\Debug\IntfIFCAPI.dll
+D:\Shared\Exporter\Exporter\Exporter\bin\Debug\RevitAPIIFC.xml
+D:\Shared\Exporter\Exporter\Exporter\obj\Debug\Exporter.csproj.CopyComplete
+D:\Shared\Exporter\Exporter\Exporter\obj\Debug\Exporter.dll
+D:\Shared\Exporter\Exporter\Exporter\obj\Debug\Exporter.pdb
+D:\Shared\Exporter\Exporter\Exporter\obj\Debug\Exporter.Export2DView.resources
+D:\Shared\Exporter\Exporter\Exporter\obj\Debug\Exporter.csproj.GenerateResource.cache
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\Exporter\Exporter\Exporter\bin\Debug\Exporter.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\Exporter\Exporter\Exporter\bin\Debug\Exporter.pdb
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\Exporter\Exporter\Exporter\bin\Debug\RevitAPIIFC.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\Exporter\Exporter\Exporter\bin\Debug\IntfIFCAPI.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\Exporter\Exporter\Exporter\bin\Debug\RevitAPIIFC.xml
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\Exporter\Exporter\Exporter\obj\Debug\Exporter.csproj.AssemblyReference.cache
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\Exporter\Exporter\Exporter\obj\Debug\Exporter.Export2DView.resources
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\Exporter\Exporter\Exporter\obj\Debug\Exporter.csproj.GenerateResource.cache
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\Exporter\Exporter\Exporter\obj\Debug\Exporter.csproj.CoreCompileInputs.cache
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\Exporter\Exporter\Exporter\obj\Debug\Exporter.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\Exporter\Exporter\Exporter\obj\Debug\Exporter.pdb

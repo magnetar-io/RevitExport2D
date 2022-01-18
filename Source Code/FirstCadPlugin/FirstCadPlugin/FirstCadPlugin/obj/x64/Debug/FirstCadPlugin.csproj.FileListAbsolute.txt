@@ -1,0 +1,52 @@
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\FirstCadPlugin.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\FirstCadPlugin.pdb
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\accoremgd.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\acdbmgd.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\acmgd.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\AdUiPalettes.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\AcDx.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\AcDxPublishUi.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\AdWindows.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\AcMr.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\AcWindows.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\AdUIMgd.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\AcTcMgd.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\AcCui.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\Autodesk.AutoCAD.Interop.Common.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\AcMNUParser.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\en-US\acdbmgd.resources.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\en-US\AcDx.resources.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\en-US\AcDxPublishUi.resources.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\en-US\AdWindows.resources.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\en-US\AcMr.resources.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\en-US\AcWindows.resources.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\obj\x64\Debug\FirstCadPlugin.csproj.CoreCompileInputs.cache
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\obj\x64\Debug\FirstCadPlugin.csproj.CopyComplete
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\obj\x64\Debug\FirstCadPlugin.dll
+D:\Shared\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\obj\x64\Debug\FirstCadPlugin.pdb
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\FirstCadPlugin.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\FirstCadPlugin.pdb
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\accoremgd.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\acdbmgd.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\acmgd.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\AdUiPalettes.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\AcDx.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\AcDxPublishUi.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\AdWindows.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\AcMr.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\AcWindows.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\AdUIMgd.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\AcTcMgd.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\AcCui.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\Autodesk.AutoCAD.Interop.Common.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\AcMNUParser.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\en-US\acdbmgd.resources.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\en-US\AcDx.resources.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\en-US\AcDxPublishUi.resources.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\en-US\AdWindows.resources.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\en-US\AcMr.resources.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\bin\x64\Debug\en-US\AcWindows.resources.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\obj\x64\Debug\FirstCadPlugin.csproj.AssemblyReference.cache
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\obj\x64\Debug\FirstCadPlugin.csproj.CoreCompileInputs.cache
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\obj\x64\Debug\FirstCadPlugin.dll
+E:\Work\Companies\Fiverr\ExportRevitDataToCad\Source Codes\FirstCadPlugin\FirstCadPlugin\FirstCadPlugin\obj\x64\Debug\FirstCadPlugin.pdb

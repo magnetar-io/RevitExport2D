@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command Exporter</Text>
+    <Description>Some description for Exporter</Description>
+    <Assembly>Exporter.dll</Assembly>
+    <FullClassName>Exporter.Command</FullClassName>
+    <ClientId>c98cad44-155f-4201-84f1-503ad182a187</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application Exporter</Name>
+    <Assembly>Exporter.dll</Assembly>
+    <FullClassName>Exporter.App</FullClassName>
+    <ClientId>6de79ea7-a946-489e-a7f2-e6fa96579fbd</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
